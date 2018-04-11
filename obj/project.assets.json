@@ -664,23 +664,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/ava/.nuget/packages/": {},
+    "/Users/longco/.nuget/packages/": {},
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ava/Projects/Escape/Escape/Escape.csproj",
+      "projectUniqueName": "/Users/longco/Desktop/Object_Fun/Escape.csproj",
       "projectName": "Escape",
-      "projectPath": "/Users/ava/Projects/Escape/Escape/Escape.csproj",
-      "packagesPath": "/Users/ava/.nuget/packages/",
-      "outputPath": "/Users/ava/Projects/Escape/Escape/obj",
+      "projectPath": "/Users/longco/Desktop/Object_Fun/Escape.csproj",
+      "packagesPath": "/Users/longco/.nuget/packages/",
+      "outputPath": "/Users/longco/Desktop/Object_Fun/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/ava/.config/NuGet/NuGet.Config"
+        "/Users/longco/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"

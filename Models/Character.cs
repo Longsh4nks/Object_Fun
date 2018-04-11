@@ -16,9 +16,13 @@ namespace Escape.Models
         public void Heal(HealthPotion potion)
         {
             hp = hp + potion.heal;
+            if(hp > max_hp)
+            {
+                hp = max_hp;
+            }
         }
 
-        public int max_hp = 100;
+        private int max_hp = 100;
         public int hp;
 
     }
