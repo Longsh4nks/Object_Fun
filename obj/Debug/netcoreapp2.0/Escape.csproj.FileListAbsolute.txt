@@ -1,0 +1,11 @@
+/Users/ava/Projects/Escape/Escape/bin/Debug/netcoreapp2.0/Escape.deps.json
+/Users/ava/Projects/Escape/Escape/bin/Debug/netcoreapp2.0/Escape.runtimeconfig.json
+/Users/ava/Projects/Escape/Escape/bin/Debug/netcoreapp2.0/Escape.runtimeconfig.dev.json
+/Users/ava/Projects/Escape/Escape/bin/Debug/netcoreapp2.0/Escape.dll
+/Users/ava/Projects/Escape/Escape/bin/Debug/netcoreapp2.0/Escape.pdb
+/Users/ava/Projects/Escape/Escape/obj/Debug/netcoreapp2.0/Escape.csprojResolveAssemblyReference.cache
+/Users/ava/Projects/Escape/Escape/obj/Debug/netcoreapp2.0/Escape.csproj.CoreCompileInputs.cache
+/Users/ava/Projects/Escape/Escape/obj/Debug/netcoreapp2.0/Escape.AssemblyInfoInputs.cache
+/Users/ava/Projects/Escape/Escape/obj/Debug/netcoreapp2.0/Escape.AssemblyInfo.cs
+/Users/ava/Projects/Escape/Escape/obj/Debug/netcoreapp2.0/Escape.dll
+/Users/ava/Projects/Escape/Escape/obj/Debug/netcoreapp2.0/Escape.pdb
